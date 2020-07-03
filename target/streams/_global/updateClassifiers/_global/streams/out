@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/Subin/Documents/ads/kafka_streams/"), "kafka_streams")...
+[debug] Done updating ProjectRef(uri("file:/Users/Subin/Documents/ads/kafka_streams/"), "kafka_streams")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
